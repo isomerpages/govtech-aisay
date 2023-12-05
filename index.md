@@ -21,8 +21,8 @@ sections:
       title: More than just OCR
       id: infopic
       description: AISAY analyses document layout, considers context, understands
-        synonyms and extracts fine-grained data.
-      button: Button Text
+        synonyms and extracts fine-grained data. A blend of heuristics and
+        rule-engines.
       image: /images/Promo/KIE_002.png
       alt: Image alt text
   - infopic:
