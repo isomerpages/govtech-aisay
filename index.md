@@ -25,6 +25,7 @@ sections:
       button: Save time for your users
       url: /use-cases/autofill/
       alt: Image alt text
+      image: /images/GIFs/AutofillDemo.gif
   - infopic:
       title: AI Cross-Match
       id: infopic
