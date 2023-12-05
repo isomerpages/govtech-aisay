@@ -44,6 +44,14 @@ sections:
       url: /use-cases/cross-match/
       alt: Database talking to documents
       image: /images/Promo/CrossMatchTransp_001.png
+  - infopic:
+      title: Built for Singapore
+      subtitle: The world is our oyster but
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Promo/otter.png
+      alt: Image alt text
   - announcements:
       title: News and Updates
       id: announcements
