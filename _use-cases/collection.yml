@@ -2,4 +2,5 @@ collections:
   use-cases:
     output: true
     order:
+      - Cross Match.md
       - Autofill Forms.md
