@@ -33,6 +33,6 @@ sections:
         database. Automate your backend processes.
       button: ACCELERATE YOUR WORKFLOWS
       url: /use-cases/cross-match/
-      alt: Image alt text
-      image: /images/Screenshot_2023_12_05_at_2_21_00_PM.png
+      alt: Database talking to documents
+      image: /images/Promo/CrossMatchTransp_001.png
 ---
