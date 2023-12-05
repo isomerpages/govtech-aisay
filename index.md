@@ -17,16 +17,20 @@ sections:
       button: Contact Us
       url: /contact-us/
       variant: center
-  - textcards:
-      title: What can AISAY do for you?
-      id: textcards
-      cards:
-        - title: Autofill Forms
-          description: Get the supporting documents to fill in forms, save time!
-          linktext: Learn more
-          url: ""
-        - title: Cross-Match
-          description: Verify facts across multiple documents, no more eyeballing.
-          linktext: Learn more
-          url: ""
+  - infopic:
+      title: Auto-fill Forms
+      id: infopic
+      description: AISAY analyses documents, extracts and formats facts to fill in
+        your forms.
+      button: Save time for your users
+      url: /contact-us
+      alt: Image alt text
+  - infopic:
+      title: AI Cross-Match
+      id: infopic
+      description: Let the AI extracts facts and verify data across documents and your
+        database.
+      button: ACCELERATE YOUR WORKFLOWS
+      url: /contact-us
+      alt: Image alt text
 ---
