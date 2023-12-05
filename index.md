@@ -51,7 +51,7 @@ sections:
       description: "AISAY has been fine-tined to be uniquely Singaporean, it
         understands UEN numbers, the correct Gao-ness of Kopi and so much more.
         "
-      image: /images/Promo/otter_resized_2.png
+      image: /images/Promo/otter_wider.png
       alt: An otter, Singapore flag cape
   - announcements:
       title: News and Updates
