@@ -23,7 +23,7 @@ sections:
       description: AISAY analyses documents, extracts and formats facts to fill in
         your forms.
       button: Save time for your users
-      url: /contact-us
+      url: /use-cases/autofill/
       alt: Image alt text
   - infopic:
       title: AI Cross-Match
@@ -31,6 +31,6 @@ sections:
       description: Let the AI extracts facts and verify data across documents and your
         database.
       button: ACCELERATE YOUR WORKFLOWS
-      url: /contact-us
+      url: /use-cases/cross-match/
       alt: Image alt text
 ---
