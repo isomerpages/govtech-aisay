@@ -1,6 +1,6 @@
 logo: /images/Screenshot_2023_12_05_at_1_09_58_PM.png
 links:
+  - title: Use-Cases
+    collection: use-cases
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
