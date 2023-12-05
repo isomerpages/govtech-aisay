@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: AISAY - AI Document Parser
+description: AISAY processes your documents, extracts facts and cross-checks
+  information. It takes care of the trivial so you can focus on what's
+  important.
 image: /images/isomer-logo.svg
 permalink: /
 notification: 🎉 AISAY API is now in Production!
