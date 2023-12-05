@@ -13,11 +13,12 @@ sections:
       subtitle: AISAY processes your documents, extracts facts and cross-checks
         information. It takes care of the trivial so you can focus on what's
         important.
-      background: /images/hero-banner.png
+      background: /images/background_purple.png
       button: Contact Us
       url: /contact-us/
       variant: center
       size: md
+      backgroundColor: white
   - infopic:
       title: More than just OCR
       id: infopic
@@ -48,9 +49,8 @@ sections:
       title: Built for Singapore
       subtitle: The world is our oyster but
       id: infopic
-      description: "AISAY has been fine-tined to be uniquely Singaporean, it
+      description: AISAY has been fine-tined to be uniquely Singaporean, it
         understands UEN numbers, the correct Gao-ness of Kopi and so much more.
-        "
       image: /images/Promo/otter_wider.png
       alt: An otter, Singapore flag cape
   - announcements:
