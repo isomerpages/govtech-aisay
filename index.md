@@ -20,18 +20,19 @@ sections:
   - infopic:
       title: Auto-fill Forms
       id: infopic
-      description: AISAY analyses documents, extracts and formats facts to fill in
-        your forms.
+      description: AISAY analyses documents, extracts and formats facts to fill in the
+        forms, integrates with your website or app.
       button: Save time for your users
       url: /use-cases/autofill/
-      alt: Image alt text
+      alt: Demo Form using AISAY
       image: /images/GIFs/AutofillDemo.gif
   - infopic:
       title: AI Cross-Match
       id: infopic
-      description: Let the AI extracts facts and verify data across documents and your
-        database.
+      description: Let our AI extract facts and verify data across documents and your
+        database. Automate your backend processes.
       button: ACCELERATE YOUR WORKFLOWS
       url: /use-cases/cross-match/
       alt: Image alt text
+      image: /images/Screenshot_2023_12_05_at_2_21_00_PM.png
 ---
