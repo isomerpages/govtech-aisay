@@ -18,6 +18,14 @@ sections:
       url: /contact-us/
       variant: center
   - infopic:
+      title: More than just OCR
+      id: infopic
+      description: AISAY analyses document layout, considers context, understands
+        synonyms and extracts fine-grained data.
+      button: Button Text
+      image: /images/Promo/KIE_002.png
+      alt: Image alt text
+  - infopic:
       title: Auto-fill Forms
       id: infopic
       description: AISAY analyses documents, extracts and formats facts to fill in the
