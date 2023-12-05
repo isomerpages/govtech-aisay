@@ -48,10 +48,11 @@ sections:
       title: Built for Singapore
       subtitle: The world is our oyster but
       id: infopic
-      description: Infopic description
-      button: Button Text
-      image: /images/Promo/otter.png
-      alt: Image alt text
+      description: "AISAY has been fine-tined to be uniquely Singaporean, it
+        understands UEN numbers, the correct Gao-ness of Kopi and so much more.
+        "
+      image: /images/Promo/otter_resized_2.png
+      alt: An otter, Singapore flag cape
   - announcements:
       title: News and Updates
       id: announcements
