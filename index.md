@@ -16,7 +16,7 @@ sections:
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
-      variant: center
+      variant: side
   - infopic:
       title: More than just OCR
       id: infopic
