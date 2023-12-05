@@ -16,7 +16,8 @@ sections:
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
-      variant: side
+      variant: center
+      size: md
   - infopic:
       title: More than just OCR
       id: infopic
@@ -43,4 +44,14 @@ sections:
       url: /use-cases/cross-match/
       alt: Database talking to documents
       image: /images/Promo/CrossMatchTransp_001.png
+  - announcements:
+      title: News and Updates
+      id: announcements
+      announcement_items:
+        - title: AISAY Docs are live!
+          date: 04 December 2023
+          announcement: Documentation of AISAY has been published on the Singapore
+            Government Developer Portal!
+          link_text: Check it out
+          link_url: https://www.developer.tech.gov.sg/products/categories/productivity-tools/aisay/overview
 ---
