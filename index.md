@@ -4,29 +4,27 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 🎉 AISAY API is now in Production!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: AI for Documents
+      subtitle: AISAY processes your documents, extracts facts and cross-checks
+        information. It takes care of the trivial so you can focus on what's
+        important.
+      background: /images/hero-banner.png
+      button: Contact Us
+      url: /contact-us/
+      variant: center
+  - textcards:
+      title: What can AISAY do for you?
+      id: textcards
+      cards:
+        - title: Autofill Forms
+          description: Get the supporting documents to fill in forms, save time!
+          linktext: Learn more
+          url: ""
+        - title: Cross-Match
+          description: Verify facts across multiple documents, no more eyeballing.
+          linktext: Learn more
+          url: ""
 ---
-
