@@ -65,8 +65,8 @@ sections:
           link_url: https://www.developer.tech.gov.sg/products/categories/productivity-tools/aisay/overview
   - infopic:
       id: infopic
-      description: The AISAY AI Document Parser Team is a part of Government Digital
-        Service, GovTech Singapore.
-      image: /images/gds_logo_padded.png
+      description: AISAY - AI Document Parser is a developed by Government Digital
+        Services, GovTech Singapore.
+      image: /images/gds_and_govtech_reduced_height.png
       alt: Image alt text
 ---
