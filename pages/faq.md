@@ -19,3 +19,5 @@ A maximum of 20 megabytes.
 - **Asynchronous API** - Analysis request is accepted in a HTTP Request, and polling is necessary to retrieve the result. Recommended for larger/more complex files, or back-end processing use-cases.
 - **Synchronous API** - Analysis request is retrieved and result is returned in a Single Request-Response cycle. Recommended for form-filling use-cases with smaller files. _PDFs are not supported._
 
+**5. Does AISAY have a JavaScript (Frontend) SDK or a Mobile App SDK (Android/iOS)?**<br>
+Unfortunately, **not yet**. Our current operational model requires your backend system to proxy requests from your frontend.
