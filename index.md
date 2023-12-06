@@ -63,4 +63,10 @@ sections:
             Government Developer Portal!
           link_text: Check it out
           link_url: https://www.developer.tech.gov.sg/products/categories/productivity-tools/aisay/overview
+  - infopic:
+      id: infopic
+      description: The AISAY AI Document Parser Team is a part of Government Digital
+        Service, GovTech Singapore.
+      image: /images/gds_logo_padded.png
+      alt: Image alt text
 ---
