@@ -7,7 +7,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Any text here <i>including HTML</i>
+      - other: 🌏 <a
+          href="https://go.gov.sg/aisay-contact">https://go.gov.sg/aisay-contact</a>
     title: General Enquiries & Feedback
 feedback: ""
 ---
