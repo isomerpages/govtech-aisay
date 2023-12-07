@@ -2,6 +2,8 @@ logo: /images/Coloured_3x.png
 links:
   - title: Use-Cases
     collection: use-cases
+  - title: Documentation
+    url: https://www.developer.tech.gov.sg/products/categories/productivity-tools/aisay/overview
   - title: FAQ
     url: /faq
   - title: Contact Us
