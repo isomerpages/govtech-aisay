@@ -15,7 +15,7 @@ sections:
         important.
       background: /images/background_purple.png
       button: Contact Us
-      url: /contact-us/
+      url: https://go.gov.sg/aisay-contact
       variant: center
       size: md
       backgroundColor: white
