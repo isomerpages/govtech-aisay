@@ -28,15 +28,6 @@ sections:
       image: /images/Promo/KIE_002.png
       alt: Image alt text
   - infopic:
-      title: Auto-fill Forms
-      id: infopic
-      description: AISAY analyses documents, extracts and formats facts to fill in the
-        forms, integrates with your website or app.
-      button: Save time for your users
-      url: /use-cases/autofill/
-      alt: Demo Form using AISAY
-      image: /images/GIFs/AutofillDemo.gif
-  - infopic:
       title: AI Cross-Match
       id: infopic
       description: Let our AI extract and cross-check data across documents and your
@@ -45,6 +36,15 @@ sections:
       url: /use-cases/cross-match/
       alt: Database talking to documents
       image: /images/DVAI.png
+  - infopic:
+      title: Auto-fill Forms
+      id: infopic
+      description: AISAY analyses documents, extracts and formats facts to fill in the
+        forms, integrates with your website or app.
+      button: Save time for your users
+      url: /use-cases/autofill/
+      alt: Demo Form using AISAY
+      image: /images/GIFs/AutofillDemo.gif
   - infopic:
       title: Built for Singapore
       subtitle: The world is our oyster but
