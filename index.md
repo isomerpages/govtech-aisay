@@ -39,12 +39,12 @@ sections:
   - infopic:
       title: AI Cross-Match
       id: infopic
-      description: Let our AI extract facts and verify data across documents and your
+      description: Let our AI extract and cross-check data across documents and your
         database. Automate your backend processes.
       button: ACCELERATE YOUR WORKFLOWS
       url: /use-cases/cross-match/
       alt: Database talking to documents
-      image: /images/Promo/CrossMatchTransp_001.png
+      image: /images/DVAI.png
   - infopic:
       title: Built for Singapore
       subtitle: The world is our oyster but
